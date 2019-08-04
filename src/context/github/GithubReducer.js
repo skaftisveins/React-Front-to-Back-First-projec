@@ -4,7 +4,7 @@ import {
   CLEAR_USERS,
   GET_USER,
   GET_REPOS
-} from "../Types";
+} from "../types";
 
 export default (state, action) => {
   switch (action.type) {
